@@ -1,0 +1,4 @@
+blogger_blog:
+    resource: "@AcmeDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+
